@@ -24,6 +24,7 @@
 <h2> Connect with me  </h2>
 <a href = 'https://www.github.com/muhammedilan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedilan&show_icons=true&theme=dark)
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
