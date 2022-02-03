@@ -30,6 +30,7 @@
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=muhammedilan)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedilan)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedilan&theme=default" />
