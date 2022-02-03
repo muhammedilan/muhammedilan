@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1> 
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muhammedilan.muhammedilan)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedilan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedilan" /> </p>
+
 
 </p>
 <div size='20px'> Hi! My name is Muhammed. Thank You for taking the time to view my GitHub Profile :smile: 
