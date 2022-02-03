@@ -40,7 +40,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedilan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
