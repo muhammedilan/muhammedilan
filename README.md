@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **ridvanilan@outlook.com**
 
-<h3 align="left">Connect with me: ridvanilan@outlook.com</h3>
 <p align="left">
 </p>
 
