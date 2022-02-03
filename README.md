@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">I'm trying to be a Full Stack developer</h3>
+<h3 align="center">I'm Trying to be a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedilan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedilan" /> </p>
 
 - 🌱 I’m currently learning **Java and React**
 
-- 💬 Ask me about **Html , Css , Javascript , Java**
+- 💬 Ask me about **Html,Css,Javascript,Java**
 
 - 📫 How to reach me **ridvanilan@outlook.com**
 
@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedilan&show_icons=true&locale=en&layout=compact" alt="muhammedilan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedilan&show_icons=true&locale=en" alt="muhammedilan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedilan&" alt="muhammedilan" /></p>
