@@ -18,7 +18,7 @@
 - 📫 How to reach me **ridvanilan@outlook.com**
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img>https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white</img>
+<a> <img>https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white</img> </a>
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
