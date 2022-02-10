@@ -11,7 +11,7 @@
 <h2> About Me </h2>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 💬 Talk to me about **Html, Css, Javascript, Java, Spring**
 
