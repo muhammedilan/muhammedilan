@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed</h1> 
+<h1 align="center">Hi I'm Muhammed</h1> 
 <p align='center'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedilan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedilan" /> </p>
