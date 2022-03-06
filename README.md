@@ -11,9 +11,9 @@
 <h2> About Me </h2>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node js and Express Js**
 
-- 💬 Talk to me about **Html, Css, Javascript, Java, Spring**
+- 💬 Talk to me about **Javascript, Spring**
 
 - 📫 How to reach me **ridvanilan@outlook.com**
 
