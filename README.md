@@ -1,12 +1,13 @@
 <h1 align="center">Hi I'm Muhammed</h1> 
 <p align='center'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedilan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedilan" /> </p>
 
 
 </p>
 <div size='20px'> Hi! My name is Muhammed. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
+<br/>
+
 
 <h2> About Me </h2>
 
@@ -16,7 +17,7 @@
 - 💬 Talk to me about **Javascript, Spring**
 
 - 📫 How to reach me **ridvanilan@outlook.com**
-
+<br/>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -42,7 +43,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 </div>
-
+<br/>
 
 
 <!--<h2> Connect with me  </h2>
