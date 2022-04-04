@@ -12,7 +12,7 @@
 <h2> About Me </h2>
 
 
-- 📕 I’m currently learning **MERN Stack**
+- 📕 I’m currently learning **Node Js**
 
 - 💬 Talk to me about **Nodejs,ExpressJs,React,Spring,Javascript**
 
