@@ -12,9 +12,9 @@
 <h2> About Me </h2>
 
 
-- 📕 I’m currently learning **Node Js**
+- 📕 I’m currently learning **Mern stack**
 
-- 💬 Talk to me about **Nodejs,ExpressJs,React,Spring,Javascript**
+- 💬 Talk to me about **Nodejs,ExpressJs,React,Javascript**
 
 - 📫 How to reach me **ridvanilan@outlook.com**
 <br/>
