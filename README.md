@@ -1,10 +1,7 @@
 <h1 align="center">Hi I'm Muhammed</h1> 
-<p align='center'>
+<h2 align="center">My Goal Is To Become a Frontend Developer</h2> 
 
-
-
-</p>
-<div size='20px'> Hi! My name is Muhammed. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Muhammed. Thank You for taking the time to view my GitHub Profile 
 </div>
 <br/>
 
@@ -12,7 +9,7 @@
 <h2> About Me </h2>
 
 
-- 📕 I’m currently learning **Mern Stack**
+- 📕 I’m currently learning **Frontend Technologies**
 
 - 💬 Talk to me about **Mongodb, Express.js, React.js, Node.js, Next.js, TailwindCss**
 
