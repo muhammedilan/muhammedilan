@@ -13,8 +13,6 @@
 
 - I’m currently learning **Frontend Technologies**
 
-- Talk to me about **Mongodb, Express.js, React.js, Node.js, Next.js, TailwindCss**
-
 - How to reach me **muhammedilan474@gmail.com && https://myyportfoliooo.netlify.app/**
 
 <br/>
