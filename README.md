@@ -1,7 +1,5 @@
 <h1 align="center">Hi I'm Muhammed</h1> 
-<h2 align="center">My Goal Is To Become a Frontend Developer</h2> 
-
-<div size='20px'> Hi! My name is Muhammed. Thank You for taking the time to view my GitHub Profile 
+<div size='20px'>Hi I'm Muhammed Ilan I'm 15 years old I'm interested in web technologies My aim is to find a job as a Frontend Developer 
 </div>
 <br/>
 
@@ -9,11 +7,16 @@
 <h2> About Me </h2>
 
 
-- 📕 I’m currently learning **Frontend Technologies**
+- All of my projects are available at : https://myyportfoliooo.netlify.app/
 
-- 💬 Talk to me about **Mongodb, Express.js, React.js, Node.js, Next.js, TailwindCss**
+- I’m currently working on : E-Commerce Project
 
-- 📫 How to reach me **ridvanilan@outlook.com**
+- I’m currently learning **Frontend Technologies**
+
+- Talk to me about **Mongodb, Express.js, React.js, Node.js, Next.js, TailwindCss**
+
+- How to reach me **muhammedilan474@gmail.com && https://myyportfoliooo.netlify.app/**
+
 <br/>
 <div>
   <h2>Frontend Development</h2>
