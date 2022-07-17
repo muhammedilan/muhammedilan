@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Muhammed</h1> 
-<div size='20px'>Hi I'm Muhammed Ilan I'm 15 years old I'm interested in web technologies My aim is to find a job as a Frontend Developer 
+<div size='28px'>Hi I'm Muhammed Ilan I'm 15 years old I'm interested in web technologies My aim is to find a job as a Frontend Developer 
 </div>
 <br/>
 
