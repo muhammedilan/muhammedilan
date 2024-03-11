@@ -9,7 +9,7 @@
 
 <p>
 
-**_Hello, I'm Muhammed, I live in Istanbul, I love developing and working on Frontend._**
+**_Hello, I'm Muhammed, I live in Istanbul, I love developing and working on Software._**
 
 </p>
 </center>
