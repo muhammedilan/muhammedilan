@@ -20,8 +20,8 @@
 
 # About Me
 
-- 🔭 I’m currently working on **[TilesCera](https://www.linkedin.com/company/tilescera)**
-- 📚 I’m currently learning **Next.js, TailwindCSS and other frontend technologies**
+- 🔭 I’m currently working on **[Newsn24](https://www.linkedin.com/company/newsn24)**
+- 📚 I’m currently learning **C# and other technologies**
 - 📫 How to reach me **muhammedilan474@gmail.com**
 - 📄 Know about my experiences **[Linkedin](https://www.linkedin.com/in/muhammed-ilan-64a511247)**
 </div>
