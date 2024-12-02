@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **[Newsn24](https://www.linkedin.com/company/newsn24)**
 - 📚 I’m currently learning **C# and other technologies**
-- 📫 How to reach me **muhammedilan474@gmail.com**
+- 📫 How to reach me **muhammed.ilan.se@gmail.com**
 - 📄 Know about my experiences **[Linkedin](https://www.linkedin.com/in/muhammed-ilan-64a511247)**
 </div>
 <br/>
