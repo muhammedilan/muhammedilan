@@ -7,7 +7,7 @@ Hello, I'm Muhammed, I live in Istanbul, I love developing and working on Softwa
 - 🔭 I’m currently working on **[Newsn24](https://www.linkedin.com/company/newsn24)**
 - 📚 I am interested in **C#, .NET and Microsoft technologies**
 - 📫 How to reach me **muhammed.ilan.se@gmail.com**
-- 📄 Know about my experiences **[Linkedin](https://www.linkedin.com/in/muhammed-ilan-64a511247)**
+- 📄 Know about my experiences **[Linkedin](https://www.linkedin.com/in/muhammedilan/)**
 
 &nbsp;
 
