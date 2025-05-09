@@ -1,5 +1,5 @@
 # Hi, I'm Muhammed
-Hello, I'm Muhammed, I live in Istanbul, I love developing and working on Software.
+Hello! I'm Muhammed, a passionate developer based in Istanbul, Turkey. I have been actively working in the field of web development for over 3 years and focus on continuously improving myself with my experience.
 
 &nbsp;
 
