@@ -1,5 +1,7 @@
 # Hi, I'm Muhammed
-Hello! I'm Muhammed, a passionate developer based in Istanbul, Turkey. I have been actively working in the field of web development for over 3 years and focus on continuously improving myself with my experience.
+Hello! I'm Muhammed, a passionate developer based in Istanbul, Turkey. I have been actively working in the field of web development for over 3 years and focus on continuously improving myself with my experience. 
+
+I have more than 3 years of experience as a Full Stack developer. I have worked and developed projects with my teammates in Frontend, Backend, DevOps and CI/CD processes. I am a highly motivated, solution-oriented and team-oriented developer. I aim to advance my career by learning new technologies and creating scalable software solutions.
 
 &nbsp;
 
