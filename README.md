@@ -1,11 +1,22 @@
-# Hi, I'm Muhammed
-Hello! I'm Muhammed, a passionate developer based in Istanbul, Turkey. I have been actively working in the field of web development for over 3 years and focus on continuously improving myself with my experience. 
+# Merhaba! Ben Muhammed 
+İstanbul'da yaşayan, 3 yılı aşkın tecrübeye sahip tutkulu bir Full Stack geliştiriciyim. Yazılım yolculuğuma lise yıllarımda başladım ve o günden beri web geliştirme alanında edindiğim bilgi birikimi ve deneyimlerimle kendimi sürekli geliştirmeye odaklanıyorum.
 
-I have more than 3 years of experience as a Full Stack developer. I have worked and developed projects with my teammates in Frontend, Backend, DevOps and CI/CD processes. I am a highly motivated, solution-oriented and team-oriented developer. I aim to advance my career by learning new technologies and creating scalable software solutions.
+Frontend, Backend, DevOps ve Cloud süreçlerinde aktif olarak rol aldım, bu alanlarda çeşitli projeleri başarıyla hayata geçirdim. Motivasyonu yüksek, çözüm odaklı ve takım çalışmasına yatkın bir profesyonel olarak, yeni teknolojileri öğrenmeye ve ölçeklenebilir yazılım çözümleri üretmeye büyük önem veriyorum. Kariyerimi bu doğrultuda ilerletmeyi hedefliyorum.
+
+
+Yeteneklerim
+
+Backend: C#, .NET Core, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, CQRS & MediatR, Unit Testing (xUnit, Moq), JSON Web Token (JWT), Clean Architecture, Onion Architecture, Node.js, Express.js, Prisma ORM, PHP, MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, Redis
+
+DevOps & Cloud: Docker, Docker Hub, Git, GitHub, GitHub Actions, Jira, Trello, Microsoft Azure, Cloudflare, Cloudinary, Hostinger, Vercel
+
+Frontend: HTML, CSS, Sass, Tailwind CSS, Material UI, JavaScript, React.js, React Native, Next.js, Redux Toolkit, React Router, React Query, React Hook Form
+
+Tools & Platforms: Visual Studio, Visual Studio Code, DBeaver, Figma, WordPress, Google Analytics, Google Adsense, Expo Go
 
 &nbsp;
 
-# About Me
+# Hakkımda
 - 📚 I am interested in **C#, .NET and Microsoft technologies**
 - 📫 How to reach me **muhammed.ilan.se@gmail.com**
 - 📄 Know about my experiences **[Linkedin](https://www.linkedin.com/in/muhammedilan/)**
@@ -28,7 +39,7 @@ I have more than 3 years of experience as a Full Stack developer. I have worked 
 
 &nbsp;
 
-# DevOps & CI/CD 
+# DevOps & Cloud 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
