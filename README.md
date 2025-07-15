@@ -14,7 +14,6 @@ Frontend: HTML, CSS, Sass, Tailwind CSS, Material UI, JavaScript, React.js, Next
 
 Tools & Platforms: Visual Studio, Visual Studio Code, Postman, Insomnia Client, Notion, DBeaver, Figma, WordPress, Google Analytics, Google Meet
 
-
 &nbsp;
 
 # Hakkımda
