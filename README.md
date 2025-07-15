@@ -4,15 +4,16 @@
 Frontend, Backend, DevOps ve Cloud süreçlerinde aktif olarak rol aldım, bu alanlarda çeşitli projeleri başarıyla hayata geçirdim. Motivasyonu yüksek, çözüm odaklı ve takım çalışmasına yatkın bir profesyonel olarak, yeni teknolojileri öğrenmeye ve ölçeklenebilir yazılım çözümleri üretmeye büyük önem veriyorum. Kariyerimi bu doğrultuda ilerletmeyi hedefliyorum.
 
 
-Yeteneklerim
+Teknik Beceriler
 
-Backend: C#, .NET Core, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, CQRS & MediatR, Unit Testing (xUnit, Moq), JSON Web Token (JWT), Clean Architecture, Onion Architecture, Node.js, Express.js, Prisma ORM, PHP, MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, Redis
+Backend: C#, .NET Core, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, CQRS & MediatR, Unit Testing (xUnit, Moq), JWT Authentication, Clean Architecture, Onion Architecture, Node.js, Express.js, Prisma ORM, MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, Redis
 
-DevOps & Cloud: Docker, Docker Hub, Git, GitHub, GitHub Actions, Jira, Trello, Microsoft Azure, Cloudflare, Cloudinary, Hostinger, Vercel
+DevOps & Cloud: Docker, Docker Compose, Docker Hub, Git, GitHub, GitHub Actions, Azure App Service, Azure Portal, Cloudflare, Cloudinary, Hostinger Web Hosting, Hostinger VPS Hosting, Vercel, Jira, Trello
 
-Frontend: HTML, CSS, Sass, Tailwind CSS, Material UI, JavaScript, React.js, React Native, Next.js, Redux Toolkit, React Router, React Query, React Hook Form
+Frontend: HTML, CSS, Sass, Tailwind CSS, Material UI, JavaScript, React.js, Next.js, Redux Toolkit, React Router, React Query, React Hook Form
 
-Tools & Platforms: Visual Studio, Visual Studio Code, DBeaver, Figma, WordPress, Google Analytics, Google Adsense, Expo Go
+Tools & Platforms: Visual Studio, Visual Studio Code, Postman, Insomnia Client, Notion, DBeaver, Figma, WordPress, Google Analytics, Google Meet
+
 
 &nbsp;
 
